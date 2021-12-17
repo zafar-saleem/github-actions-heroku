@@ -12,6 +12,7 @@ function App() {
         >
           This is for my blog post tutorial on setting up github actions with heroku for CI/CD.
         </a>
+        <button>Does nothing</button>
       </header>
     </div>
   );
