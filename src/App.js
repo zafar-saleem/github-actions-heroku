@@ -6,7 +6,7 @@ function App() {
       <header className="App-header">
         <a
           className="App-link"
-          href="#"
+          href="https://github.com/zafar-saleem/github-actions-heroku"
           target="_blank"
           rel="noopener noreferrer"
         >
